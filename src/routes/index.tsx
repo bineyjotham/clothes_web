@@ -143,7 +143,7 @@ function Lookbook({ items }: { items: LookbookImage[] }) {
           </h2>
         </div>
         <p className="md:col-span-5 md:col-start-8 self-end text-base md:text-lg leading-relaxed opacity-80">
-          Each piece is conceived in our Lisbon atelier — patterned, cut, and finished by hand. The Autumn/Winter 26 collection draws from the textures of unpolished stone, sun-faded linen, and the russet of late October.
+          Each piece is conceived in our Lisbon atelier, patterned, cut, and finished by hand. The Autumn/Winter 26 collection draws from the textures of unpolished stone, sun-faded linen, and the russet of late October.
         </p>
       </div>
 
@@ -174,7 +174,7 @@ function Story() {
             <em className="italic">Lasting</em> form.
           </h2>
           <p className="text-base md:text-lg leading-relaxed text-foreground/80 max-w-lg mb-6">
-            Founded in 2014, Maison Oré is a small house of fifteen makers. We work in deadstock wool, Portuguese cashmere, and naturally tanned leather — producing fewer than 600 garments each season.
+            Founded in 2014, Maison Oré is a small house of fifteen makers. We work in deadstock wool, Portuguese cashmere, and naturally tanned leather, producing fewer than 600 garments each season.
           </p>
           <a href="#" className="inline-flex items-center gap-3 bg-ink text-cream px-8 py-4 text-xs uppercase tracking-[0.2em] hover:bg-rust transition">
             Read the Manifesto →
