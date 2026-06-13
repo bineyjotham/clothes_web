@@ -1,4 +1,4 @@
-# MAISON ORÉ — Fashion E-Commerce Website
+# MAISON ORÉ, Fashion E-Commerce Website
 
 A modern, minimalist fashion e-commerce website built with TanStack Start, featuring the Autumn/Winter 2026 collection. This project showcases considered tailoring, raw textures, and warm tones through an elegant, responsive design.
 
